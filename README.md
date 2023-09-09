@@ -1,2 +1,5 @@
-# player-achievements
-Part 6.1
+# Задание:
+#### Сохранить любые данные в localStorage.
+
+# Результат выполнения:
+![Alt text](example.gif)
